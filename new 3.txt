@@ -1,0 +1,72 @@
+
+
+ Alphabet sheep is a simple text based game where the object is to try and give the same answer as you think most other people will do.
+ 
+ There are 26 simple questions asking you to name an object  place or person 
+ Each answer must start with a different letter of the alphabet so that each letter of the alphabet is used once 
+ 
+ For example if two questions were 
+An international parcel delivery business
+A scottish city
+You could Answer DHL or Dundee but not both
+
+
+ There is a spreadsheet here that will help in filling out the answers
+ 
+ https://docs.google.com/spreadsheets/d/135w6Gbbb3lZcBS6-vbXp87pIOANX88vhFXJy-Wsfzgo/edit?usp=sharing
+ 
+Do not edit the spreadsheet in situ, take a copy and use it.
+
+Answer all the questions and send your answers to me by email as text, one answer per line E.G. 
+
+If the questions were:
+
+A Number
+A Word ending in 'wer'
+A three letter word
+Something straight
+...
+
+the answers could be sent as:
+One
+Answer
+Per
+Line
+...
+
+
+Any Questions
+
+OK heres a sample question set
+
+
+
+
+An Olympic team sport
+An Olympic medal colour
+A Middle eastern country
+A Houseplant
+Something a footballer wears
+A Bill Murray movie.
+Something you cook on a BBQ
+A type of tree
+A root vegtable
+A card game for one person
+A number between one and ten
+A sportswear brand
+A Beyonce song
+A Country you could go on Safari in
+A Puccini Opera
+A piece of kitchen furniture 
+A word ending in 'ism'
+A US Vice President
+A chinese dynasty
+An international parcel delivery business
+A scottish city
+A four letter word ending in 'WN'
+A famous ballet dancer
+A type of hat
+A letter of the greek alphabet
+Something that is usually red
+
+

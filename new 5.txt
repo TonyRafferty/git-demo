@@ -1,0 +1,21 @@
+
+
+CS issues 
+
+still waiting for SCB to test the BRM notes > max tacker fix
+
+I was on with Wanfuteng this morning for a couple of hours it was a bit difficult with time zones and communications but the upshot was that I wasn't able to do the test I wanted to onsite. I did get the settings and data from the machine so what I'm thinking to do now is to get into the Lab on Monday ot Tuesday and try to reproduce on our GRG acceptor.
+
+Haven't heard a thing back from Aya on the Cashway, we are waiting for a response from them before we can go any further.
+
+I've been looking into our optionsfor EMV cards and its not as simple as it sounds to reuse the Multos cards in the way we did beforeOne of the steps involved is getting Thales to sign the Application and data we merge in the P3 Software (this step is a reason we have to have short card expiry dates!) However Thales are no longer supporting the P3 Software that has been moved to a company called Barnes Test with whom we do not currently have a relationship. Angus has a contact and we can go in that direction however I think a better path might be to get more cards from FIME and use them. Angus already has one that he has imported into sparrow and so far I don't know any reason why we shouldn't do the same with BW.
+I'm setting up a call with MArtin and Kathrynza for Monday to find out what we need to do to proceed in that direction or what might stop us.
+
+ Nour Eddine has been working on the DN 450 today Counters are all looking ok
+ As regards the Logon issue we have added a parameter to accept the eula in our Permission control I expect will resolve the issu.  Will build and release to QA on Monday after I have reviewed the other issues sitting in Jira.
+ 
+I've recreated the issue with slow key loading and will open a call with DN on that. I also have a call open on an intermittant issue with Platform failing to load.
+
+
+ 
+ 

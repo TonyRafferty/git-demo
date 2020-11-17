@@ -1,0 +1,12 @@
+Vendor Mode  			DN_VDM
+Sensors and Indicators  DN_SystemCtrlInt
+Recieipt Printer	 	DN_PtrRcpt
+TTU  					DN_Ttu
+Journal printer  		DN_PtrJrnl
+Pinpad  				DN_EPPV8
+Recycler  				DN_CimRm4H
+Card Reader  			DN_SecMotCardRdr
+Camera  				DN_Cam2
+
+
+
